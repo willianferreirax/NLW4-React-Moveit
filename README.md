@@ -32,3 +32,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<hr>
+
+<h1 align="center"> 
+    <img src = "public/favicon.png" align="center">
+    Move.it 
+</h1>
+
+# 🎯 Sobre
+O projeto **move.it** foi desenvolvido durante a Next Level Week.<br><br>
+Se trata de um aplicativo para controlar o tempo dos desenvolvedores de forma gameficada, o usuário propõe-se a produzir durante uma certa quantidade de tempo, ao concluir o usuario recebe um desafio que visa cuidar de sua saude física, ao terminar o desafio o usuário recebe experiência e pode passar de nivel.
+<br> <br>
+
+<h3>Acesse para conferir : <a href="https://nlw-moveit.herokuapp.com/"> https://nlw-moveit.herokuapp.com/ </a> </h3>
+
+
+
+# ⚙ Tecnologias utilizadas
+
+- Next.Js
+- Typescript
+- Reactjs
+
+## 🖼 Imagens
+<br>
+<img src = "public/img1.PNG">
+<img src = "public/img2.PNG">
+<img src = "public/img3.PNG">
